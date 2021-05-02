@@ -7,8 +7,16 @@
 * [**Dwowell's Livestream**](https://twitch.tv/dwowell_)
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
-- 05-01-2021: Finished making the skin list.
+- 05-01-2021: Finished making the beginning of the skin list.
+- 05-02-2021: Added GamerYeeted.
 
 The list is maintained by **imTCA#3060**. If anything is broken or missing, please DM me on Discord. Thank you!  
 
-## WIP
+# GamerYeeted (3 versions, linked below)
+note: this skin is actually made by me, TCA! hope you guys enjoy the skin! (video showcase coming soon)
+## [NM (NoMod)](https://imtca.s-ul.eu/dwowell/oAXtABhy)
+![](https://i.imgur.com/6699dAx.jpg)
+## [DT (DoubleTime)](https://imtca.s-ul.eu/dwowell/1NOwnL6D)
+![](https://i.imgur.com/rCs3FCU.jpg)
+## [Selyu](https://imtca.s-ul.eu/dwowell/NRlQrJwD)
+![](https://i.imgur.com/hvEKfnx.jpg)
