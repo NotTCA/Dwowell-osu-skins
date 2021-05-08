@@ -15,6 +15,9 @@ The list is maintained by **imTCA#3060**. If anything is broken or missing, plea
 
 The skins are **in order!** from most used to least used.
 
+# [BTMC | FREEDOM DiVE↓](https://imtca.s-ul.eu/skins/QTS06nLF)
+![](https://i.imgur.com/4fY735j.jpg)
+
 # GamerYeeted (3 versions, linked below)
 note: this skin is actually made by me, TCA! hope you guys enjoy the skin! (video showcase coming soon)
 ## [NM (NoMod)](https://imtca.s-ul.eu/dwowell/oAXtABhy)
@@ -26,6 +29,3 @@ note: this skin is actually made by me, TCA! hope you guys enjoy the skin! (vide
 
 # [Cozy Skin](https://imtca.s-ul.eu/dwowell/Lo4fFCZJ)
 ![](https://skins.osuck.net/uploads/posts/2020-04/1586795293_4.jpg)
-
-# [BTMC | FREEDOM DiVE↓](https://imtca.s-ul.eu/skins/QTS06nLF)
-![](https://i.imgur.com/4fY735j.jpg)
