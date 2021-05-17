@@ -3,7 +3,7 @@
 ### This will always be kept up-to-date.
 
 * [**Dwowell's YouTube Channel**](https://www.youtube.com/channel/UCKlLKfooJ6UhVOKsUHd5ctQ) 
-* [**Dwowell's Discord Server**](https://dsc.gg/dwowell)  
+* [**Dwowell's Discord Server**](https://dsc.lol/dwowell)  
 * [**Dwowell's Livestream**](https://twitch.tv/dwowell_)
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
