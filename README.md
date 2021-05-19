@@ -8,10 +8,14 @@
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
 - 05-17-2021: Moved FREEDOM DiVE↓ to the very top of the skin list.
+- 05-18-2021: Added JesusOmega: Planets.
 
 The list is maintained by **imTCA#3060**. If anything is broken or missing, please DM me on Discord. Thank you!
 
 The skins are **in order!** from most used to least used.
+
+# [jesusOmega: Planets](https://imtca.s-ul.eu/skins/PW18yuve)
+![](https://i.imgur.com/QXDzIX5.jpg)
 
 # [BTMC | FREEDOM DiVE↓](https://imtca.s-ul.eu/skins/QTS06nLF)
 ![](https://i.imgur.com/4fY735j.jpg)
