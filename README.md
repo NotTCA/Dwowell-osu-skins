@@ -7,7 +7,6 @@
 * [**Dwowell's Livestream**](https://twitch.tv/dwowell_)
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
-- amogus
 
 The list is maintained by **imTCA#3060**. If anything is broken or missing, please DM me on Discord. Thank you!
 
