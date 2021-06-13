@@ -7,6 +7,7 @@
 * [**Dwowell's Livestream**](https://twitch.tv/dwowell_)
 
 updates (mm/dd/yyyy) (will delete these after 2 weeks or so of writing them, or if they're about issues and they get resolved):
+- 06-13-2021: Added FREEDOM DiVE sus cursor.
 
 The list is maintained by **imTCA#3060**. If anything is broken or missing, please DM me on Discord. Thank you!
 
@@ -18,7 +19,7 @@ The skins are **in order!** from most used to least used.
 # [boop](https://imtca.s-ul.eu/skins/MP0cxszM)
 ![](https://osu.ppy.sh/ss/14733957/6cce)
 
-# [BTMC | FREEDOM DiVE↓](https://imtca.s-ul.eu/skins/QTS06nLF)
+# [BTMC | FREEDOM DiVE↓](https://imtca.s-ul.eu/skins/90esvbjj) | [w/ sus cursor](https://imtca.s-ul.eu/skins/aO4KSvNS)
 ![](https://i.imgur.com/4fY735j.jpg)
 
 # GamerYeeted (3 versions, linked below)
